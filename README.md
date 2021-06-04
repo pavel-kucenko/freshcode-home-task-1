@@ -25,7 +25,7 @@ $env | grep LC > text.txt
 ```
 - task 6
 ```
-$sudo find / -name code
+$sudo find / -name code >> text.txt
 ```
 - task 7
 ```
